@@ -1,6 +1,6 @@
 ## About me
-- Full Name: Achraf TAFFAH
-- School: Engineering Student at ENSET Mohammedia
+- Full Name: Achraf TAFFAH (Engineering Student)
+- School: ENSET Mohammedia
 - Major: Software Engineering and distributed computing systems
 
 ## Activités pratiques
