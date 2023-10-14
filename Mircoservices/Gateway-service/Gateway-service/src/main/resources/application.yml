@@ -3,15 +3,15 @@ server:
 spring:
   application:
     name: gateway-service
-  cloud:
-    gateway:
-      routes:
-        - id: r1
-          uri: http://localhost:8082/
-          predicates:
-            - Path=/customers/**
-        - id: r2
-          uri: http://localhost:8083/
-          predicates:
-            - Path=/products/**
+  #cloud:
+    #gateway:
+      #routes:
+        #- id: r1
+          #uri: http://localhost:8082/
+          #predicates:
+            #- Path=/customers/**
+        #- id: r2
+          #uri: http://localhost:8083/
+          #predicates:
+            #- Path=/products/**
 
