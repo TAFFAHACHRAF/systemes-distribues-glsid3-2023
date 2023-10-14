@@ -10,6 +10,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import java.time.Duration;
 import java.util.Properties;
 
 @SpringBootApplication
@@ -35,10 +36,10 @@ public class DemoSpringKafkaApplication {
           KStream<String, Long> resultStream = input
                   .filter((k, v) -> v.getDuration() > 100)
                   .map((k, v) -> new KeyValue<>(v.getName(), v.getDuration()))
-                  //.groupByKey()
-                  //.windowedBy(TimeWindows.of(Duration.ofMillis(5000)))
-                  //.count()
-                  //.toStream()
+                  .groupByKey()
+                  .windowedBy(TimeWindows.of(Duration.ofMillis(5000)))
+                  .count()
+                  .toStream()
                   .map((k, v) -> new KeyValue<>(k+ "->", v))
                   .peek((k, v) -> System.out.println(k + "=>" + v));
           resultStream.to("R66", Produced.with(Serdes.String(),Serdes.Long()));
