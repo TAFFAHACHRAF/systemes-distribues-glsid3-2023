@@ -16,8 +16,8 @@ import javax.persistence.Id;
 @ToString
 @Builder
 public class Customer {
-    @Id @GeneratedValue(strategy = GenerationType.AUTO)
-    private int id;
+    @Id
+    private String id;
     private String name;
     private String email;
 }

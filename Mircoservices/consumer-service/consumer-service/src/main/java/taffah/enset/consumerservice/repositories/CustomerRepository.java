@@ -7,5 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 import taffah.enset.consumerservice.entities.Customer;
 
 @RepositoryRestController
-public interface CustomerRepository extends JpaRepository<Customer,Long> {
+public interface CustomerRepository extends JpaRepository<Customer,String> {
 }
