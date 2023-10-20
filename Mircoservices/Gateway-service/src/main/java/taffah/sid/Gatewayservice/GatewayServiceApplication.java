@@ -20,6 +20,7 @@ public class GatewayServiceApplication {
 		return routeLocatorBuilder.routes().
 				route((r)->r.path("/customers/**").uri("lb://CUSTOMER-SERVICE")).
 				route((r)->r.path("/products/**").uri("lb://INVENTORY-SERVICE")).
+				route((r)->r.path("/bills/**").uri("lb://BILL-SERVICE")).
 				build();
 	}
 }
