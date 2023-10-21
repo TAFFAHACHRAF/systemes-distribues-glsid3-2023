@@ -5,43 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ed40ba-408c-455d-bf04-2a890497c1a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Laibrairi/settings.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Laibrairi/src/main/java/org/example/array/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Laibrairi/src/main/java/org/example/array/ArrayUtilImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../TestLaibrairi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ai_2023/Systemes_Decisionnels_-_data_mining" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/config-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../config-service/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Gateway-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConfigParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConfigTestRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/src/main/java/taffah/sid/Gatewayservice/GatewayServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gateway-service/src/test/java/taffah/sid/Gatewayservice/GatewayServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/src/main/java/taffah/enset/eurikaservice/EurikaServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurika-service/src/test/java/taffah/enset/eurikaservice/EurikaServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/config-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/src/main/java/taffah/enset/config/ConfigApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/config/src/test/java/taffah/enset/config/ConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConsumerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConsumerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/Mircoservices/config-service",
+    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/Mircoservices/consumer-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -126,7 +109,8 @@
       <workItem from="1697447995691" duration="2194000" />
       <workItem from="1697840925519" duration="12000" />
       <workItem from="1697840953755" duration="71000" />
-      <workItem from="1697841037027" duration="2398000" />
+      <workItem from="1697841037027" duration="3306000" />
+      <workItem from="1697885980008" duration="620000" />
     </task>
     <servers />
   </component>

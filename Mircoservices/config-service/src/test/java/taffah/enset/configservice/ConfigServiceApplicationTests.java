@@ -1,10 +1,10 @@
-package taffah.enset.config;
+package taffah.enset.configservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigApplicationTests {
+class ConfigServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
