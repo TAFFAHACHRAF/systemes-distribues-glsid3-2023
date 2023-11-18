@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ed40ba-408c-455d-bf04-2a890497c1a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConfigParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConfigTestRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/.idea/config-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/src/main/java/taffah/enset/config/ConfigApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-service/config/src/test/java/taffah/enset/config/ConfigApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConsumerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/java/taffah/enset/consumerservice/ConsumerServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/Mircoservices/consumer-service",
+    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/Mircoservices/billing-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,6 +92,7 @@
       <workItem from="1697840953755" duration="71000" />
       <workItem from="1697841037027" duration="3306000" />
       <workItem from="1697885980008" duration="620000" />
+      <workItem from="1697986981004" duration="64000" />
     </task>
     <servers />
   </component>

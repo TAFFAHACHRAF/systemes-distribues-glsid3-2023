@@ -3,6 +3,7 @@ package taffah.enset.billingservice;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import taffah.enset.billingservice.entities.Bill;
 import taffah.enset.billingservice.repositories.BillRepository;
@@ -11,6 +12,7 @@ import java.util.Date;
 import java.util.UUID;
 
 @SpringBootApplication
+@EnableConfigurationProperties(ConfigParams.class)
 public class BillingServiceApplication {
 
 	public static void main(String[] args) {

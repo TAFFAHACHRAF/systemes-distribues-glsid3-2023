@@ -3,6 +3,7 @@ package taffah.enset.inventoryservice;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Bean;
 import taffah.enset.inventoryservice.entities.Product;
@@ -11,6 +12,7 @@ import taffah.enset.inventoryservice.repositories.ProductRepository;
 
 @SpringBootApplication
 @EnableEurekaClient
+@EnableConfigurationProperties(ConfigParams.class)
 public class InventoryrServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryrServiceApplication.class, args);
