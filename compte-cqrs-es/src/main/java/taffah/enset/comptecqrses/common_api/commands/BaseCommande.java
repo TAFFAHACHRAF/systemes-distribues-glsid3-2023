@@ -7,9 +7,9 @@ import org.hibernate.annotations.Immutable;
 public abstract class BaseCommande <T>{
     @TargetAggregateIdentifier
     @Getter
-    private T id;
+    private String id;
 
-    public BaseCommande(T id){
+    public BaseCommande(String id){
         this.id=id;
     }
 }
