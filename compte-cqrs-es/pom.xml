@@ -49,6 +49,23 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>org.axonframework</groupId>
+			<artifactId>axon-core</artifactId>
+			<version>4.0-M2</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.axonframework/axon-spring-boot-starter -->
+		<dependency>
+			<groupId>org.axonframework</groupId>
+			<artifactId>axon-spring-boot-starter</artifactId>
+			<version>4.0</version>
+		</dependency>
+
+
+
+
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
