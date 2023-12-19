@@ -1,0 +1,17 @@
+def generate_primes(limit):
+    """Generate prime numbers up to the given limit using the Sieve of Eratosthenes."""
+    sieve = [True] * (limit + 1)
+    sieve[0] = sieve[1] = False  # 0 and 1 are not prime numbers
+
+    for num in range(2, int(limit**0.5) + 1):
+        if sieve[num]:
+            for multiple in range(num * num, limit + 1, num):
+                sieve[multiple] = False
+
+    primes = [num for num in range(2, limit + 1) if sieve[num]]
+    return primes
+
+# Example usage:
+limit = 100  # Adjust the limit as needed
+prime_numbers = generate_primes(limit)
+print("Prime numbers up to", limit, "are:", prime_numbers)
