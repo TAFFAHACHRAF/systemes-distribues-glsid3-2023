@@ -12,7 +12,7 @@ import taffah.enset.inventoryservice.repositories.ProductRepository;
 
 @SpringBootApplication
 @EnableEurekaClient
-@EnableConfigurationProperties(ConfigParams.class)
+	@EnableConfigurationProperties(ConfigParams.class)
 public class InventoryrServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryrServiceApplication.class, args);

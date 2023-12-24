@@ -1,0 +1,14 @@
+com\enset\billingservice\models\Customer.class
+com\enset\billingservice\entities\ProductItem.class
+com\enset\billingservice\models\Customer$CustomerBuilder.class
+com\enset\billingservice\entities\ProductItem$ProductItemBuilder.class
+com\enset\billingservice\repositories\ProductItemRepository.class
+com\enset\billingservice\repositories\BillRepository.class
+com\enset\billingservice\entities\Bill$BillBuilder.class
+com\enset\billingservice\controllers\BillController.class
+com\enset\billingservice\BillingServiceApplication.class
+com\enset\billingservice\feignServices\IProductService.class
+com\enset\billingservice\models\Product$ProductBuilder.class
+com\enset\billingservice\entities\Bill.class
+com\enset\billingservice\models\Product.class
+com\enset\billingservice\feignServices\ICustomerService.class

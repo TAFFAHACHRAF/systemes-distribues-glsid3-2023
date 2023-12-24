@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consumer-service" target="17" />
+      <module name="inventory-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

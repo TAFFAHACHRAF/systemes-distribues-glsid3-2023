@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ed40ba-408c-455d-bf04-2a890497c1a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/consumer-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../config-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/consumer-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/.idea/consumer-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.idea/inventory-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../inventory-service/.idea/inventory-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inventory-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part4-spring-angular-oauth2-oidc-keycloak-google-" beforeDir="false" afterPath="$PROJECT_DIR$/../../part4-spring-angular-oauth2-oidc-keycloak-google-" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-angular-oauth2-oidc-keycloak-google-github" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-angular-oauth2-oidc-keycloak-google-github" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +32,12 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="Use Maven wrapper" />
-        <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Wl0GWjOwW4sV4yGrf5hPrrWVnj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,8 +51,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/Mircoservices/billing-service",
+    "last_opened_file_path": "C:/Users/R1304/Desktop/Projets/systemes-distribues-glsid3-2023/mircoservices/gateway-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,11 +71,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <method v="2">
@@ -93,6 +100,8 @@
       <workItem from="1697841037027" duration="3306000" />
       <workItem from="1697885980008" duration="620000" />
       <workItem from="1697986981004" duration="64000" />
+      <workItem from="1703027251682" duration="677000" />
+      <workItem from="1703076212432" duration="113000" />
     </task>
     <servers />
   </component>

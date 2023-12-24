@@ -1,0 +1,10 @@
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\models\Product.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\BillingServiceApplication.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\entities\ProductItem.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\repositories\BillRepository.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\feignServices\ICustomerService.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\controllers\BillController.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\models\Customer.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\entities\Bill.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\feignServices\IProductService.java
+D:\S5\destributed systems\Billings-mangement\billing-service\src\main\java\com\enset\billingservice\repositories\ProductItemRepository.java
